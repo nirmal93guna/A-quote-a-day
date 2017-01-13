@@ -1,0 +1,14 @@
+{
+    "name" : "quoteApplication",
+    "version" : "1.0.0",
+    "description" : "displays a random scripts",
+    "main" : "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "edureka",
+    "license": "ISC",
+    "dependencies" : {
+        "express": "^4.13.3"
+    }
+}
